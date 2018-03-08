@@ -1,5 +1,5 @@
-<?php include 'config.php';?>
-<?php include 'includes/header.php';?>
+<?php include 'includes/config.php';?>
+<?php get_header()?>
 
 <h2><?=$title?></h2>
 
@@ -134,4 +134,5 @@ if(isset($_POST['Register'])) {
 }
 ?>
 
-<?php include 'includes/footer.php';?>
+
+<?php get_footer()?>
