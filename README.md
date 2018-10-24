@@ -1,1 +1,1 @@
-# itc240-widgets-1
+# ITC240-widgets
